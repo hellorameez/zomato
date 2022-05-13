@@ -1,9 +1,12 @@
-
-import './App.css';
+import Dish from './Dish';
 
 function App() {
   return (
-    <div>demo</div>
+    <div>
+   <Dish />
+   <Dish />
+   <Dish />
+   </div>
   );
 }
 
